@@ -39,11 +39,18 @@ markerFolder: ./Kep/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kep|Kep]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kep.public|Kep.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kep.internal|Kep.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kep.protect|Kep.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kep.private|Kep.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kep.personal|Kep.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kep.secret|Kep.secret]] 
+
+### #is_/same_as :: [Kep](/_Standards/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kep.md) 
+
+### #is_/same_as :: [Kep.public](/_public/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kep.public.md) 
+
+### #is_/same_as :: [Kep.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kep.internal.md) 
+
+### #is_/same_as :: [Kep.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kep.protect.md) 
+
+### #is_/same_as :: [Kep.private](/_private/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kep.private.md) 
+
+### #is_/same_as :: [Kep.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kep.personal.md) 
+
+### #is_/same_as :: [Kep.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kep.secret.md)
 

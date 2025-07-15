@@ -40,11 +40,18 @@ markerFolder: ./Pouthisat/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Pouthisat|Pouthisat]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Pouthisat.public|Pouthisat.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Pouthisat.internal|Pouthisat.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Pouthisat.protect|Pouthisat.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Pouthisat.private|Pouthisat.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Pouthisat.personal|Pouthisat.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Pouthisat.secret|Pouthisat.secret]] 
+
+### #is_/same_as :: [Pouthisat](/_Standards/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Pouthisat.md) 
+
+### #is_/same_as :: [Pouthisat.public](/_public/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Pouthisat.public.md) 
+
+### #is_/same_as :: [Pouthisat.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Pouthisat.internal.md) 
+
+### #is_/same_as :: [Pouthisat.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Pouthisat.protect.md) 
+
+### #is_/same_as :: [Pouthisat.private](/_private/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Pouthisat.private.md) 
+
+### #is_/same_as :: [Pouthisat.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Pouthisat.personal.md) 
+
+### #is_/same_as :: [Pouthisat.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Pouthisat.secret.md)
 

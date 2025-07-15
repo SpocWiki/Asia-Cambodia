@@ -40,11 +40,18 @@ markerFolder: ./Preah_Vihéar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Preah_Vihéar|Preah_Vihéar]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Preah_Vihéar.public|Preah_Vihéar.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Preah_Vihéar.internal|Preah_Vihéar.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Preah_Vihéar.protect|Preah_Vihéar.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Preah_Vihéar.private|Preah_Vihéar.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Preah_Vihéar.personal|Preah_Vihéar.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Preah_Vihéar.secret|Preah_Vihéar.secret]] 
+
+### #is_/same_as :: [Preah_Vihéar](/_Standards/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Preah_Vihéar.md) 
+
+### #is_/same_as :: [Preah_Vihéar.public](/_public/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Preah_Vihéar.public.md) 
+
+### #is_/same_as :: [Preah_Vihéar.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Preah_Vihéar.internal.md) 
+
+### #is_/same_as :: [Preah_Vihéar.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Preah_Vihéar.protect.md) 
+
+### #is_/same_as :: [Preah_Vihéar.private](/_private/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Preah_Vihéar.private.md) 
+
+### #is_/same_as :: [Preah_Vihéar.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Preah_Vihéar.personal.md) 
+
+### #is_/same_as :: [Preah_Vihéar.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Preah_Vihéar.secret.md)
 

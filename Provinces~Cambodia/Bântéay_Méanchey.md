@@ -40,11 +40,18 @@ markerFolder: ./Bântéay_Méanchey/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Bântéay_Méanchey|Bântéay_Méanchey]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Bântéay_Méanchey.public|Bântéay_Méanchey.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Bântéay_Méanchey.internal|Bântéay_Méanchey.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Bântéay_Méanchey.protect|Bântéay_Méanchey.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Bântéay_Méanchey.private|Bântéay_Méanchey.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Bântéay_Méanchey.personal|Bântéay_Méanchey.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Bântéay_Méanchey.secret|Bântéay_Méanchey.secret]] 
+
+### #is_/same_as :: [Bântéay_Méanchey](/_Standards/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Bântéay_Méanchey.md) 
+
+### #is_/same_as :: [Bântéay_Méanchey.public](/_public/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Bântéay_Méanchey.public.md) 
+
+### #is_/same_as :: [Bântéay_Méanchey.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Bântéay_Méanchey.internal.md) 
+
+### #is_/same_as :: [Bântéay_Méanchey.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Bântéay_Méanchey.protect.md) 
+
+### #is_/same_as :: [Bântéay_Méanchey.private](/_private/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Bântéay_Méanchey.private.md) 
+
+### #is_/same_as :: [Bântéay_Méanchey.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Bântéay_Méanchey.personal.md) 
+
+### #is_/same_as :: [Bântéay_Méanchey.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Bântéay_Méanchey.secret.md)
 

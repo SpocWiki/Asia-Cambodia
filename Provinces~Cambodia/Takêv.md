@@ -40,11 +40,18 @@ markerFolder: ./Takêv/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Takêv|Takêv]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Takêv.public|Takêv.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Takêv.internal|Takêv.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Takêv.protect|Takêv.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Takêv.private|Takêv.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Takêv.personal|Takêv.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Takêv.secret|Takêv.secret]] 
+
+### #is_/same_as :: [Takêv](/_Standards/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Takêv.md) 
+
+### #is_/same_as :: [Takêv.public](/_public/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Takêv.public.md) 
+
+### #is_/same_as :: [Takêv.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Takêv.internal.md) 
+
+### #is_/same_as :: [Takêv.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Takêv.protect.md) 
+
+### #is_/same_as :: [Takêv.private](/_private/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Takêv.private.md) 
+
+### #is_/same_as :: [Takêv.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Takêv.personal.md) 
+
+### #is_/same_as :: [Takêv.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Takêv.secret.md)
 

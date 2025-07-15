@@ -129,10 +129,4 @@ Capital :: [[Phnom_Penh]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Cambodia|Cambodia]]  
-- [[../../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia.internal|Cambodia.internal]]  
-- [[../../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia.protect|Cambodia.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia.private|Cambodia.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia.personal|Cambodia.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia.secret|Cambodia.secret]] 
+

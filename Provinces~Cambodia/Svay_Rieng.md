@@ -40,11 +40,18 @@ markerFolder: ./Svay_Rieng/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Svay_Rieng|Svay_Rieng]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Svay_Rieng.public|Svay_Rieng.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Svay_Rieng.internal|Svay_Rieng.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Svay_Rieng.protect|Svay_Rieng.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Svay_Rieng.private|Svay_Rieng.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Svay_Rieng.personal|Svay_Rieng.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Svay_Rieng.secret|Svay_Rieng.secret]] 
+
+### #is_/same_as :: [Svay_Rieng](/_Standards/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Svay_Rieng.md) 
+
+### #is_/same_as :: [Svay_Rieng.public](/_public/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Svay_Rieng.public.md) 
+
+### #is_/same_as :: [Svay_Rieng.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Svay_Rieng.internal.md) 
+
+### #is_/same_as :: [Svay_Rieng.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Svay_Rieng.protect.md) 
+
+### #is_/same_as :: [Svay_Rieng.private](/_private/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Svay_Rieng.private.md) 
+
+### #is_/same_as :: [Svay_Rieng.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Svay_Rieng.personal.md) 
+
+### #is_/same_as :: [Svay_Rieng.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Svay_Rieng.secret.md)
 

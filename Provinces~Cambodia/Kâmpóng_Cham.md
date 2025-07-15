@@ -40,11 +40,18 @@ markerFolder: ./Kâmpóng_Cham/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Cham|Kâmpóng_Cham]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Cham.public|Kâmpóng_Cham.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Cham.internal|Kâmpóng_Cham.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Cham.protect|Kâmpóng_Cham.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Cham.private|Kâmpóng_Cham.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Cham.personal|Kâmpóng_Cham.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Cham.secret|Kâmpóng_Cham.secret]] 
+
+### #is_/same_as :: [Kâmpóng_Cham](/_Standards/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kâmpóng_Cham.md) 
+
+### #is_/same_as :: [Kâmpóng_Cham.public](/_public/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kâmpóng_Cham.public.md) 
+
+### #is_/same_as :: [Kâmpóng_Cham.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kâmpóng_Cham.internal.md) 
+
+### #is_/same_as :: [Kâmpóng_Cham.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kâmpóng_Cham.protect.md) 
+
+### #is_/same_as :: [Kâmpóng_Cham.private](/_private/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kâmpóng_Cham.private.md) 
+
+### #is_/same_as :: [Kâmpóng_Cham.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kâmpóng_Cham.personal.md) 
+
+### #is_/same_as :: [Kâmpóng_Cham.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kâmpóng_Cham.secret.md)
 
