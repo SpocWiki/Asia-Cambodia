@@ -1,30 +1,29 @@
 ---
-location: [ 14.2 , 103.5 ] 
+location:
+  - 14.2
+  - 103.5
 type: geo-Region
 title: Otdar_Mean_Chey
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Otdar_Mean_Chey
-
+  - Otdar_Mean_Chey
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Otdar_Mean_Chey
