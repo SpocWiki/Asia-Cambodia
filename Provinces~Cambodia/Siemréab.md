@@ -40,17 +40,17 @@ markerFolder: ./Siemréab/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Siemréab](/_Standards/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Siemréab.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Siemréab|Siemréab]] 
 
-### #is_/same_as :: [Siemréab.public](/_public/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Siemréab.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Siemréab.public|Siemréab.public]] 
 
-### #is_/same_as :: [Siemréab.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Siemréab.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Siemréab.internal|Siemréab.internal]] 
 
-### #is_/same_as :: [Siemréab.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Siemréab.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Siemréab.protect|Siemréab.protect]] 
 
-### #is_/same_as :: [Siemréab.private](/_private/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Siemréab.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Siemréab.private|Siemréab.private]] 
 
-### #is_/same_as :: [Siemréab.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Siemréab.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Siemréab.personal|Siemréab.personal]] 
 
-### #is_/same_as :: [Siemréab.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Siemréab.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Siemréab.secret|Siemréab.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Rôtânôkiri/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rôtânôkiri](/_Standards/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Rôtânôkiri.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Rôtânôkiri|Rôtânôkiri]] 
 
-### #is_/same_as :: [Rôtânôkiri.public](/_public/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Rôtânôkiri.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Rôtânôkiri.public|Rôtânôkiri.public]] 
 
-### #is_/same_as :: [Rôtânôkiri.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Rôtânôkiri.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Rôtânôkiri.internal|Rôtânôkiri.internal]] 
 
-### #is_/same_as :: [Rôtânôkiri.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Rôtânôkiri.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Rôtânôkiri.protect|Rôtânôkiri.protect]] 
 
-### #is_/same_as :: [Rôtânôkiri.private](/_private/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Rôtânôkiri.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Rôtânôkiri.private|Rôtânôkiri.private]] 
 
-### #is_/same_as :: [Rôtânôkiri.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Rôtânôkiri.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Rôtânôkiri.personal|Rôtânôkiri.personal]] 
 
-### #is_/same_as :: [Rôtânôkiri.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Rôtânôkiri.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Rôtânôkiri.secret|Rôtânôkiri.secret]] 
 

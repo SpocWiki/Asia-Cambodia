@@ -40,17 +40,17 @@ markerFolder: ./Kâmpóng_Spœ/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kâmpóng_Spœ](/_Standards/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kâmpóng_Spœ.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kâmpóng_Spœ|Kâmpóng_Spœ]] 
 
-### #is_/same_as :: [Kâmpóng_Spœ.public](/_public/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kâmpóng_Spœ.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kâmpóng_Spœ.public|Kâmpóng_Spœ.public]] 
 
-### #is_/same_as :: [Kâmpóng_Spœ.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kâmpóng_Spœ.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kâmpóng_Spœ.internal|Kâmpóng_Spœ.internal]] 
 
-### #is_/same_as :: [Kâmpóng_Spœ.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kâmpóng_Spœ.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kâmpóng_Spœ.protect|Kâmpóng_Spœ.protect]] 
 
-### #is_/same_as :: [Kâmpóng_Spœ.private](/_private/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kâmpóng_Spœ.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kâmpóng_Spœ.private|Kâmpóng_Spœ.private]] 
 
-### #is_/same_as :: [Kâmpóng_Spœ.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kâmpóng_Spœ.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kâmpóng_Spœ.personal|Kâmpóng_Spœ.personal]] 
 
-### #is_/same_as :: [Kâmpóng_Spœ.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kâmpóng_Spœ.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kâmpóng_Spœ.secret|Kâmpóng_Spœ.secret]] 
 

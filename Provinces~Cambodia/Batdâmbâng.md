@@ -40,17 +40,17 @@ markerFolder: ./Batdâmbâng/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Batdâmbâng](/_Standards/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Batdâmbâng.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Batdâmbâng|Batdâmbâng]] 
 
-### #is_/same_as :: [Batdâmbâng.public](/_public/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Batdâmbâng.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Batdâmbâng.public|Batdâmbâng.public]] 
 
-### #is_/same_as :: [Batdâmbâng.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Batdâmbâng.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Batdâmbâng.internal|Batdâmbâng.internal]] 
 
-### #is_/same_as :: [Batdâmbâng.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Batdâmbâng.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Batdâmbâng.protect|Batdâmbâng.protect]] 
 
-### #is_/same_as :: [Batdâmbâng.private](/_private/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Batdâmbâng.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Batdâmbâng.private|Batdâmbâng.private]] 
 
-### #is_/same_as :: [Batdâmbâng.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Batdâmbâng.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Batdâmbâng.personal|Batdâmbâng.personal]] 
 
-### #is_/same_as :: [Batdâmbâng.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Batdâmbâng.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Batdâmbâng.secret|Batdâmbâng.secret]] 
 

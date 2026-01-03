@@ -40,17 +40,17 @@ markerFolder: ./Otdar_Mean_Chey/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Otdar_Mean_Chey](/_Standards/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Otdar_Mean_Chey.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Otdar_Mean_Chey|Otdar_Mean_Chey]] 
 
-### #is_/same_as :: [Otdar_Mean_Chey.public](/_public/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Otdar_Mean_Chey.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Otdar_Mean_Chey.public|Otdar_Mean_Chey.public]] 
 
-### #is_/same_as :: [Otdar_Mean_Chey.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Otdar_Mean_Chey.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Otdar_Mean_Chey.internal|Otdar_Mean_Chey.internal]] 
 
-### #is_/same_as :: [Otdar_Mean_Chey.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Otdar_Mean_Chey.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Otdar_Mean_Chey.protect|Otdar_Mean_Chey.protect]] 
 
-### #is_/same_as :: [Otdar_Mean_Chey.private](/_private/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Otdar_Mean_Chey.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Otdar_Mean_Chey.private|Otdar_Mean_Chey.private]] 
 
-### #is_/same_as :: [Otdar_Mean_Chey.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Otdar_Mean_Chey.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Otdar_Mean_Chey.personal|Otdar_Mean_Chey.personal]] 
 
-### #is_/same_as :: [Otdar_Mean_Chey.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Otdar_Mean_Chey.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Otdar_Mean_Chey.secret|Otdar_Mean_Chey.secret]] 
 

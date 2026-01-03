@@ -129,5 +129,19 @@ Capital :: [[Phnom_Penh]]
 [geo-lat::11.55] 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Cambodia/ReadMe|ReadMe]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Cambodia/ReadMe.public|ReadMe.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Cambodia/ReadMe.internal|ReadMe.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Cambodia/ReadMe.protect|ReadMe.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Cambodia/ReadMe.private|ReadMe.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Cambodia/ReadMe.personal|ReadMe.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Cambodia/ReadMe.secret|ReadMe.secret]] 
 

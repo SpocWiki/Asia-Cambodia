@@ -40,17 +40,17 @@ markerFolder: ./Krong_Pailin/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Krong_Pailin](/_Standards/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Krong_Pailin.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Krong_Pailin|Krong_Pailin]] 
 
-### #is_/same_as :: [Krong_Pailin.public](/_public/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Krong_Pailin.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Krong_Pailin.public|Krong_Pailin.public]] 
 
-### #is_/same_as :: [Krong_Pailin.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Krong_Pailin.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Krong_Pailin.internal|Krong_Pailin.internal]] 
 
-### #is_/same_as :: [Krong_Pailin.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Krong_Pailin.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Krong_Pailin.protect|Krong_Pailin.protect]] 
 
-### #is_/same_as :: [Krong_Pailin.private](/_private/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Krong_Pailin.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Krong_Pailin.private|Krong_Pailin.private]] 
 
-### #is_/same_as :: [Krong_Pailin.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Krong_Pailin.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Krong_Pailin.personal|Krong_Pailin.personal]] 
 
-### #is_/same_as :: [Krong_Pailin.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Krong_Pailin.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Krong_Pailin.secret|Krong_Pailin.secret]] 
 

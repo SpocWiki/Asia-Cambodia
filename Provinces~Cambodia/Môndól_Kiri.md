@@ -40,17 +40,17 @@ markerFolder: ./Môndól_Kiri/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Môndól_Kiri](/_Standards/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Môndól_Kiri.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Môndól_Kiri|Môndól_Kiri]] 
 
-### #is_/same_as :: [Môndól_Kiri.public](/_public/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Môndól_Kiri.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Môndól_Kiri.public|Môndól_Kiri.public]] 
 
-### #is_/same_as :: [Môndól_Kiri.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Môndól_Kiri.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Môndól_Kiri.internal|Môndól_Kiri.internal]] 
 
-### #is_/same_as :: [Môndól_Kiri.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Môndól_Kiri.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Môndól_Kiri.protect|Môndól_Kiri.protect]] 
 
-### #is_/same_as :: [Môndól_Kiri.private](/_private/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Môndól_Kiri.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Môndól_Kiri.private|Môndól_Kiri.private]] 
 
-### #is_/same_as :: [Môndól_Kiri.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Môndól_Kiri.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Môndól_Kiri.personal|Môndól_Kiri.personal]] 
 
-### #is_/same_as :: [Môndól_Kiri.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Môndól_Kiri.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Môndól_Kiri.secret|Môndól_Kiri.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Kâmpóng_Chhnang/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kâmpóng_Chhnang](/_Standards/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kâmpóng_Chhnang.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kâmpóng_Chhnang|Kâmpóng_Chhnang]] 
 
-### #is_/same_as :: [Kâmpóng_Chhnang.public](/_public/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kâmpóng_Chhnang.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kâmpóng_Chhnang.public|Kâmpóng_Chhnang.public]] 
 
-### #is_/same_as :: [Kâmpóng_Chhnang.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kâmpóng_Chhnang.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kâmpóng_Chhnang.internal|Kâmpóng_Chhnang.internal]] 
 
-### #is_/same_as :: [Kâmpóng_Chhnang.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kâmpóng_Chhnang.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kâmpóng_Chhnang.protect|Kâmpóng_Chhnang.protect]] 
 
-### #is_/same_as :: [Kâmpóng_Chhnang.private](/_private/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kâmpóng_Chhnang.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kâmpóng_Chhnang.private|Kâmpóng_Chhnang.private]] 
 
-### #is_/same_as :: [Kâmpóng_Chhnang.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kâmpóng_Chhnang.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kâmpóng_Chhnang.personal|Kâmpóng_Chhnang.personal]] 
 
-### #is_/same_as :: [Kâmpóng_Chhnang.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kâmpóng_Chhnang.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Kâmpóng_Chhnang.secret|Kâmpóng_Chhnang.secret]] 
 

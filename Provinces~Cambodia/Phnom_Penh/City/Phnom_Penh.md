@@ -167,19 +167,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Phnom%20Penh)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Phnom_Penh](/_Standards/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Phnom_Penh/City/Phnom_Penh.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Phnom_Penh/City/Phnom_Penh|Phnom_Penh]] 
 
-### #is_/same_as :: [Phnom_Penh.public](/_public/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Phnom_Penh/City/Phnom_Penh.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Phnom_Penh/City/Phnom_Penh.public|Phnom_Penh.public]] 
 
-### #is_/same_as :: [Phnom_Penh.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Phnom_Penh/City/Phnom_Penh.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Phnom_Penh/City/Phnom_Penh.internal|Phnom_Penh.internal]] 
 
-### #is_/same_as :: [Phnom_Penh.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Phnom_Penh/City/Phnom_Penh.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Phnom_Penh/City/Phnom_Penh.protect|Phnom_Penh.protect]] 
 
-### #is_/same_as :: [Phnom_Penh.private](/_private/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Phnom_Penh/City/Phnom_Penh.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Phnom_Penh/City/Phnom_Penh.private|Phnom_Penh.private]] 
 
-### #is_/same_as :: [Phnom_Penh.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Phnom_Penh/City/Phnom_Penh.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Phnom_Penh/City/Phnom_Penh.personal|Phnom_Penh.personal]] 
 
-### #is_/same_as :: [Phnom_Penh.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Phnom_Penh/City/Phnom_Penh.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Cambodia/Provinces~Cambodia/Phnom_Penh/City/Phnom_Penh.secret|Phnom_Penh.secret]] 
 
