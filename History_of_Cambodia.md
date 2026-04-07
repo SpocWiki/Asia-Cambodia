@@ -1,10 +1,10 @@
 ---
 aliases:
 has_id_wikidata: Q675630
-subclass_of: "[[_Standards/WikiData/WD~history_of_Asia,627531]]"
-part_of: "[[_Standards/WikiData/WD~history_of_Southeast_Asia,2227514]]"
-instance_of: "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
-facet_of: "[[_Standards/WikiData/WD~Cambodia,424]]"
+subclass_of: "[[_Standards/WikiData/WD~history_of_Asia,627531|WD~history_of_Asia,627531]]"
+part_of: "[[_Standards/WikiData/WD~history_of_Southeast_Asia,2227514|WD~history_of_Southeast_Asia,2227514]]"
+instance_of: "[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]"
+facet_of: "[[_Standards/WikiData/WD~Cambodia,424|WD~Cambodia,424]]"
 Commons_category: History of Cambodia
 ---
 

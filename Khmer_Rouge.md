@@ -2,18 +2,18 @@
 aliases:
   - Rote Khmer
 has_id_wikidata: Q191764
-founded_by: "[[_Standards/WikiData/WD~Son_Ngoc_Minh,2034851]]"
+founded_by: "[[_Standards/WikiData/WD~Son_Ngoc_Minh,2034851|WD~Son_Ngoc_Minh,2034851]]"
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Party_of_Democratic_Kampuchea,3366376]]"
-  - "[[_Standards/WikiData/WD~Communist_Party_of_Kampuchea,8711543]]"
+  - "[[_Standards/WikiData/WD~Party_of_Democratic_Kampuchea,3366376|WD~Party_of_Democratic_Kampuchea,3366376]]"
+  - "[[_Standards/WikiData/WD~Communist_Party_of_Kampuchea,8711543|WD~Communist_Party_of_Kampuchea,8711543]]"
 political_ideology:
-  - "[[_Standards/WikiData/WD~Khmer_nationalism,23808093]]"
-  - "[[_Standards/WikiData/WD~ultranationalism,38352698]]"
-  - "[[_Standards/WikiData/WD~Q106547270,106547270]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q26067273,26067273]]"
-headquarters_location: "[[_Standards/WikiData/WD~Phnom_Penh,1850]]"
-designated_as_terrorist_by: "[[_Standards/WikiData/WD~United_States,30]]"
-instance_of: "[[_Standards/WikiData/WD~organization,43229]]"
+  - "[[_Standards/WikiData/WD~Khmer_nationalism,23808093|WD~Khmer_nationalism,23808093]]"
+  - "[[_Standards/WikiData/WD~ultranationalism,38352698|WD~ultranationalism,38352698]]"
+  - "[[_Standards/WikiData/WD~Q106547270,106547270|WD~Q106547270,106547270]]"
+topic_has_template: "[[_Standards/WikiData/WD~Q26067273,26067273|WD~Q26067273,26067273]]"
+headquarters_location: "[[_Standards/WikiData/WD~Phnom_Penh,1850|WD~Phnom_Penh,1850]]"
+designated_as_terrorist_by: "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
+instance_of: "[[_Standards/WikiData/WD~organization,43229|WD~organization,43229]]"
 OmegaWiki_Defined_Meaning: "1063820"
 inception: 1951-06-30T00:00:00Z
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Democratic%20Kampuchea.svg
