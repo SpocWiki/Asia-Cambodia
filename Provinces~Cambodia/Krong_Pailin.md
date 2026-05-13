@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Krong_Pailin/
 markerFolder: ./Krong_Pailin/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

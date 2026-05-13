@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Otdar_Mean_Chey/
 markerFolder: ./Otdar_Mean_Chey/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

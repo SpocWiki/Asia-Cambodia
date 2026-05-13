@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Môndól_Kiri/
 markerFolder: ./Môndól_Kiri/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

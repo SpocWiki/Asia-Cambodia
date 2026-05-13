@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Kâmpóng_Thum/
 markerFolder: ./Kâmpóng_Thum/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

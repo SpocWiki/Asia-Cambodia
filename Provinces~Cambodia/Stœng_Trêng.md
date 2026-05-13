@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Stœng_Trêng/
 markerFolder: ./Stœng_Trêng/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
